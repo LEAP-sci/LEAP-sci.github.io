@@ -1,3 +1,1 @@
-## LEAP working group
-
-+ Jan 29 2018: First meeting to organize future meetings
+**Jan-29-2018** | First meeting to organize future meetings
