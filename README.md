@@ -6,9 +6,9 @@
 
 **Feb 6** - Vincent: preliminary data from 2016 and planning for 2017 experiment ([pdf](https://leap-sci.github.io/pdfs/2017_planning.pdf)).
 
-**Sep 24** - Vincent & Marie-Pier: meeting about LEAP 2016 experiment summarizing current plans for analyses & papers ([pdf](https://leap-sci.github.io/pdfs/2016_summary.pdf)).
+**Sep 24** - Vincent & Marie-Pier: meeting about LEAP 2016 experiment summarizing plan for analyses & papers ([pdf](https://leap-sci.github.io/pdfs/2016_summary.pdf)).
 
-**Nov 15** - Vincent: summary of, and preliminary results from, 2017 experiment ([pdf](https://leap-sci.github.io/pdfs/2017_summary.pdf))
+**Nov 15** - Vincent: summary of, and preliminary results from, 2017 experiment ([pdf](https://leap-sci.github.io/pdfs/2017_summary.pdf)).
 
 ## 2019 ##
 
