@@ -3,7 +3,7 @@
 - [Slack workspace](https://leap-sci.slack.com/)
 - [GitHub profile](https://github.com/LEAP-sci)
 - [Twitter account](https://twitter.com/leap_sci)
-- Gmail: LEAP<dot>sci<dot>mcgill<at>gmail<dot>com
+- Gmail: LEAP (dot) sci (dot) mcgill (at) gmail (dot) com
 - [Figshare](https://figshare.com/authors/LEAP_Sci/4607284) _(not used at the moment)_
 
 Andy has credentials for all of these things if you need access.
