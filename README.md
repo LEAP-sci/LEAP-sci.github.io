@@ -1,3 +1,5 @@
+Some useful links:
+
 - [Main public LEAP website](http://gonzalezlab.weebly.com/leap.html)
 - [Open Science Framework profile](https://osf.io/sq7vj/)
 - [Slack workspace](https://leap-sci.slack.com/)
