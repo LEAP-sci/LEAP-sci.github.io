@@ -30,4 +30,4 @@ Andy has credentials for all of these things if you need access.
 
 ## 2019 ##
 
-**Jan 29** - First meeting to organize biweekly student/postdoc working group.
+**Jan 29** - First meeting to organize student/postdoc working group.
