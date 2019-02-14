@@ -8,7 +8,7 @@ Some useful links:
 - [GitHub](https://github.com/LEAP-sci), where this website is hosted (fork the repo if you want to edit it)
 - [Figshare](https://figshare.com/authors/LEAP_Sci/4607284) _(not used at the moment)_
 
-Andy has credentials for all of these things if you need access.
+Andy has credentials for all of these things if needed.
 
 # Meetings #
 
