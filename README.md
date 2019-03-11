@@ -31,3 +31,5 @@ Andy has credentials for all of these things if needed.
 ## 2019 ##
 
 **Jan 29** - First meeting to organize student/postdoc working group.
+
+**Mar 06** - Justin: progress on LEAP ecosystem model ([pdf](https://leap-sci.github.io/pdfs/Justin_March2019.pdf)).
